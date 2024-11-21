@@ -26,3 +26,8 @@ If you want to run this website locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/portfolio-website.git
+
+## Check it Out
+If you want to view it directly navigate here:
+   ```bash
+   https://aedynsimon.github.io/PersonalWebsite/
