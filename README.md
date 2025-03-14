@@ -10,7 +10,6 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About the Project
@@ -59,10 +58,6 @@ To run this project locally, follow these steps:
 ## Contributing
 
 If you'd like to contribute, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is **open-source** and available under the [MIT License](LICENSE).
 
 ## Contact
 
