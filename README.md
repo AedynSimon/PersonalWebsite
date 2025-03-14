@@ -31,8 +31,8 @@ This portfolio website is designed to present my background, skills, and project
 
 ## Technologies Used
 
-- **HTML** - Structure of the website
-- **CSS** - Styling and layout
+- **HTML5** - Structure of the website
+- **CSS3** - Styling and layout
 - **JavaScript** - Interactivity and dynamic content
 
 ## Installation
