@@ -345,9 +345,11 @@ section {
 
 article {
   display: flex;
-  width: 10rem;
+  align-items: center;
+  width: 12rem;
   justify-content: space-around;
   gap: 0.5rem;
+  justify-content: flex-start;
 }
 
 article .icon {
